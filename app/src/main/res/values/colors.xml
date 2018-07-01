@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00a8e2</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="colorAccent">@color/social_fb_color</color>
+    <color name="colorBtn">#00A8E2</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="btn_pressed_color_1">#029DDB</color>
+    <color name="fab_color_normal">#00A8E2</color>
+    <color name="fab_color_pressed">#BBDEFB</color>
+    <color name="fab_text_color">#FFFFFF</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="transparent_white">#20FFFFFF</color>
+    <color name="transparent_white_2">#50FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorBorder">#d0ced0</color>
+    <color name="connect_text_color">#555A5F</color>
+    <color name="social_fb_color">#3b5998</color>
+    <color name="social_linked_in_color">#077bb7</color>
+    <color name="social_twitter_color">#07b0ef</color>
+    <color name="social_youtube_color">#ce2726</color>
+    <color name="social_separator_color">#ccc</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+</resources>

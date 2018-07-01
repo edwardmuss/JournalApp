@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "872161354721",
+    "firebase_url": "https://login-ebb99.firebaseio.com",
+    "project_id": "login-ebb99",
+    "storage_bucket": "login-ebb99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872161354721:android:022457da5e9d0a17",
+        "android_client_info": {
+          "package_name": "com.mccutech.journalprof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872161354721-gca965j6e9hvscgc5701st5skek13c79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mccutech.journalprof",
+            "certificate_hash": "c3eb2007f660e5ca397213cf79fe7a92d5cf72fd"
+          }
+        },
+        {
+          "client_id": "872161354721-1dfes72gduqibte73nmagkcfuurfvks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs6QIbNsEuZyh0vvBT0gSKXRNMS0RcDMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872161354721-1dfes72gduqibte73nmagkcfuurfvks9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
